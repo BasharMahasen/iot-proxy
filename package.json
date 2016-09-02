@@ -1,0 +1,20 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "iot -- arduino proxy application",
+  "main": "app_proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iot"
+  ],
+  "author": "Bashar Mahasen",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^3.3.0",
+    "johnny-five": "^0.10.0",
+    "pug": "^2.0.0-beta5"
+  },
+  "devDependencies": {}
+}
